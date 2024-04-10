@@ -34,5 +34,6 @@
             android:layout_marginStart="20dp"
             android:layout_marginLeft="20dp"
             android:inputType="text" />
+
     </RelativeLayout>
 </LinearLayout>
